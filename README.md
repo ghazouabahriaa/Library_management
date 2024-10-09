@@ -1,7 +1,7 @@
 # **Library Management**
 
 Développé comme projet de gestion de bibliothèque par :
-- **[ Bahria Ghazoua]**
+- **Bahria Ghazoua**
 
 ## **Description des besoins**
 
